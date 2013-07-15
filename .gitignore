@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+.cproject
+._.DS_Store
+.DS_Store
+.project
+*.bak
